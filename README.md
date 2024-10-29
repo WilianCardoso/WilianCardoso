@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pretin.w1l/)
 
 ![Wilian Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianCardoso&show_icons=true&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliancardoso&layout=compact&langs_count=4&theme=transparent"/>
 
 ## Tecnologias
 
