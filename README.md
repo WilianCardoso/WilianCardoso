@@ -1,11 +1,11 @@
-### Olá! Eu sou Wilian Cardoso 🖐🏾
+## Olá! Eu sou Wilian Cardoso 🖐🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pretin.w1l/)
 
 ![Wilian Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianCardoso&show_icons=true&theme=dracula)
 
-### Tecnologias
+## Tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
