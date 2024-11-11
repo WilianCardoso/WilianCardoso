@@ -1,6 +1,5 @@
 ## Olá! Eu sou Wilian Cardoso 🖐🏾
-Apaixonado por tecnologia e sedento por conhecimento.
-Curasndo Técnico em Desenvolvineto de Sistenas com Aplicagem em IOT. 2/4
+Entusiasta de tecnologia e sempre em busca de mais conhecimento. Atualmente cursando Técnico em Desenvolvimento de Sistemas com foco em IoT. No 2º semestre de 4.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pretin.w1l/)
