@@ -15,9 +15,10 @@ Curasndo Técnico em Desenvolvineto de Sistenas com Aplicagem em IOT. 2/4
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&      logoColor=white"/>
 </div><br/>
 
-## 📊 Github Status
-
-![Wilian Cardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=WilianCardoso&show_icons=true&theme=dracula)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliancardoso&layout=compact&langs_count=4&theme=transparent"/>
-
+<details>
+  <summary><h3>📊 Github Status</h3></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=WilianCardoso&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianCardoso&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
