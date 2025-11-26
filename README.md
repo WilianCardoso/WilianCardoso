@@ -2,7 +2,7 @@
 Entusiasta de tecnologia e sempre em busca de mais conhecimento. Atualmente cursando Técnico em Desenvolvimento de Sistemas com foco em IoT. No 4º semestre de 4.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilian-gabriel-cardoso-868851322/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/w1l.cardoso/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cardoso.w1l/)
 
 ## Tecnologias
 
