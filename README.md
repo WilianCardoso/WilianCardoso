@@ -1,23 +1,34 @@
-## Olá! Eu sou Wilian Cardoso 🖐🏾
-Entusiasta de tecnologia e sempre em busca de mais conhecimento. Atualmente cursando Técnico em Desenvolvimento de Sistemas com foco em IoT. No 4º semestre de 4.
+# Hi👋! Im Wilian Cardoso
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilian-gabriel-cardoso-868851322/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cardoso.w1l/)
+    💻 Desenvolvedor de Software Júnior | Suporte Técnico | IoT 
+    📍 Brasil 🇧🇷 
 
-## Tecnologias
+**Sou estudante de Engenharia de Software e formado como Técnico em Desenvolvimento de Sistemas com aplicação em IoT pelo SENAI.**
 
-<div style="display: inline_block"><br/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- </div><br/>
 
-<details>
-  <summary><h3>📊 Github Status</h3></summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=WilianCardoso&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilianCardoso&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+## 🛠️ Tech Stack
 
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+### Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilianCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilianCardoso&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilianCardoso&theme=tokyonight" />
+</p>
