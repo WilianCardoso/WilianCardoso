@@ -24,7 +24,8 @@
 
 ## 📊 GitHub Status
 
+
+<p align="center">
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+  <img height="170" src="https://github-readme-stats-murex-tau.vercel.app/api?username=WilianCardoso&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-murex-tau.vercel.app/api/top-langs/?username=WilianCardoso&layout=compact&theme=tokyonight" />
