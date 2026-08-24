@@ -24,11 +24,7 @@
 
 ## 📊 GitHub Status
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilianCardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilianCardoso&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilianCardoso&theme=tokyonight" />
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
